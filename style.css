@@ -1,0 +1,24 @@
+body {
+  min-height: 5000px;
+}
+
+.jumbotron {
+  background-color: #e2edff;
+  padding-top: 200px;
+}
+
+.about-section{
+    padding-top: 100px;
+}
+
+.project-section {
+  padding-top: 100px;
+}
+
+.tools-skills-section {
+  padding-top: 100px;
+}
+
+.contact-section {
+  padding-top: 100px;
+}
